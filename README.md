@@ -15,6 +15,7 @@ Errors are listed by chapter, followed by page number.
 
 ## Chapter 3
 
+Page 76: in Figure 3.3, the (1,1) and (2,2) cells are erroneously switched.
 
 
 ## Chapter 4
