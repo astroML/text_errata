@@ -19,7 +19,7 @@ Errors are listed by chapter, followed by page number.
 
 ## Chapter 2
 
-
+Page 60: Eq. (2.7) less than sign should be greater than??
 
 ## Chapter 3
 
