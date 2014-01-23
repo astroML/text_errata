@@ -53,6 +53,11 @@ Page 99: The line below eq. (3.60) should say "Note that for k = 1 this distribu
 
 ## Chapter 10
 
+p. 437, figure 10.15: in the creation of this figure, the noise was not applied
+to the data before computing the periodogram.  See a fuller discussion along
+with an updated figure on the
+[astroML website](http://www.astroml.org/book_figures/chapter10/fig_LS_sg_comparison.html)
+
 
 
 ## Appendix
