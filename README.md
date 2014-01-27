@@ -29,7 +29,7 @@ Page 99: The line below eq. (3.60) should say "Note that for k = 1 this distribu
 
 ## Chapter 4
 
-
+Page 126: The denominator of the argument of the exponential of Eq. (4.2) should be sigma squared, not sigma, to better match Eq. (3.43) and lead to Eq. (4.4).
 
 ## Chapter 5
 
