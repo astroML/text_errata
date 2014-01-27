@@ -15,7 +15,7 @@ Errors are listed by chapter, followed by page number.
 
 ## Chapter 1
 
-
+Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actually an Equirectangular projection (also known in WCS as a "Cartesian projection")
 
 ## Chapter 2
 
