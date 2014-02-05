@@ -21,6 +21,8 @@ Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actuall
 
 Page 49: Second footnote of hadoop.apache.org?
 
+Page 50: 8th element of list of seven strategies? Reads as a typo, rather than a bonus item.
+
 Page 60: Eq. (2.7) less than sign should be greater than??
 
 
