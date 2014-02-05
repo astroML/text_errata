@@ -19,7 +19,13 @@ Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actuall
 
 ## Chapter 2
 
+Page 49: Second footnote of hadoop.apache.org?
+
 Page 60: Eq. (2.7) less than sign should be greater than??
+
+
+
+
 
 ## Chapter 3
 
