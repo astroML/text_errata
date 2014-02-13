@@ -56,6 +56,9 @@ Page 130: The denominator of the argument of the exponential of Eq. (4.11) shoul
 
 ## Chapter 10
 
+p. 427, in the first paragraph of section 10.3.1, it should be 
+         omega = 2 pi f = 2 pi / P, and not 2 pi P for the last part.
+
 p. 437, figure 10.15: in the creation of this figure, the noise was not applied
 to the data before computing the periodogram.  See a fuller discussion along
 with an updated figure on the
