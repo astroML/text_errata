@@ -19,7 +19,9 @@ Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actuall
 
 ## Chapter 2
 
-Page 60: Eq. (2.7) less than sign should be greater than??
+Page 47/50: there are eight entries despite the title "Seven Strategies..."
+
+Page 60: Eq. (2.7), "less than" sign should be "greater than"
 
 ## Chapter 3
 
@@ -56,10 +58,10 @@ Page 130: The denominator of the argument of the exponential of Eq. (4.11) shoul
 
 ## Chapter 10
 
-p. 427, in the first paragraph of section 10.3.1, it should be 
-         omega = 2 pi f = 2 pi / P, and not 2 pi P for the last part.
+Page 427: in the first paragraph of section 10.3.1, it should be 
+         omega = 2 pi f = 2 pi / P, and not (2 pi P) for the last part.
 
-p. 437, figure 10.15: in the creation of this figure, the noise was not applied
+Page 437: figure 10.15: in the creation of this figure, the noise was not applied
 to the data before computing the periodogram.  See a fuller discussion along
 with an updated figure on the
 [astroML website](http://www.astroml.org/book_figures/chapter10/fig_LS_sg_comparison.html)
