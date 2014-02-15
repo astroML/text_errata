@@ -103,4 +103,10 @@ In addition, the table created, `mydb.SDSSspecgalsDR8` implies that this query i
 DR8 data.  As far as I am aware, DR8 data is *not* in the SDSS-I/II CAS, but only in
 the SDSS-III CAS, which is at a different site, http://skyserver.sdss3.org/casjobs/ .
 
+If this query really is based on DR8 data and was run on [the SDSS-III CasJobs
+site](http://skyserver.sdss3.org/casjobs/), the astrometric corrections of DR9
+will not have been applied.  This affects the columns `G.ra` and `G.dec`.
+An additional join on the `AstromDR9` table is necessary to get the correct
+astrometry.  See also http://www.sdss3.org/dr10/imaging/caveats.php#astrometry .
+
 ### Appendix E
