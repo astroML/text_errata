@@ -15,7 +15,15 @@ Errors are listed by chapter, followed by page number.
 
 ## Chapter 1
 
-Page 19 (also, Figure 1.2 on Page 21): The function `fetch_sdss_spectrum()` does not, in fact, query any database in real time.  It simply retrieves a specific file from the SDSS-I/II Data Archive Server (DAS) via http.  See also astroML/astroml.github.com#1.
+Page 19 (also, Figure 1.2 on Page 21): The function `fetch_sdss_spectrum()`
+does not, in fact, query any database in real time.  It simply retrieves a
+specific file from the SDSS-I/II Data Archive Server (DAS) via http.
+See also [this pull request](https://github.com/astroML/astroML/pull/29).  As
+"a simple example of the way SQL queries can be used with the SDSS database"
+(page 21), it is useless.
+
+Page 22: If the query was in fact submitted to the SDSS Data Release 8 database,
+the URL listed in Appendix D is wrong.  See below for more notes on Appendix D.
 
 Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actually an Equirectangular projection (also known in WCS as a "Cartesian projection")
 
