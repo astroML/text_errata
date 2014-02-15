@@ -15,6 +15,8 @@ Errors are listed by chapter, followed by page number.
 
 ## Chapter 1
 
+Page 19 (also, Figure 1.2 on Page 21): The function `fetch_sdss_spectrum()` does not, in fact, query any database in real time.  It simply retrieves a specific file from the SDSS-I/II Data Archive Server (DAS) via http.  See also astroML/astroml.github.com#1.
+
 Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actually an Equirectangular projection (also known in WCS as a "Cartesian projection")
 
 ## Chapter 2
@@ -79,11 +81,18 @@ with an updated figure on the
 Page 517:  The final paragraph of section C.3 should mention that SDSS does not
 use Pogson magnitudes as defined in Equation C.2, but rather the asinh
 magnitudes defined by [Lupton, Gunn & Szalay (1999)](http://adsabs.harvard.edu/abs/1999AJ....118.1406L).
-See also http://www.sdss3.org/dr10/algorithms/magnitudes.php.
+See also http://www.sdss3.org/dr10/algorithms/magnitudes.php#asinh.
 
 In addition, the SDSS magnitude system is *almost* but not *exactly* on the
-AB system.  There are ~1% differences.  Again, see http://www.sdss3.org/dr10/algorithms/magnitudes.php.
+AB system.  There are ~1% differences.  See http://www.sdss3.org/dr10/algorithms/fluxcal.php#SDSStoAB.
 
 ### Appendix D
+
+Page 519: It does not appear to be mentioned anywhere that one must select a particular Context,
+and that this Context must be different from 'MyDB' in order for the query to work.
+
+In addition, the table created, `mydb.SDSSspecgalsDR8` implies that this query is on
+DR8 data.  As far as I am aware, DR8 data is *not* in the SDSS-I/II CAS, but only in
+the SDSS-III CAS, which is at a different site, http://skyserver.sdss3.org/casjobs/ .
 
 ### Appendix E
