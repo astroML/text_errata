@@ -20,7 +20,7 @@ does not, in fact, query any database in real time.  It simply retrieves a
 specific file from the SDSS-I/II Data Archive Server (DAS) via http.
 See also [this pull request](https://github.com/astroML/astroML/pull/29).  As
 "a simple example of the way SQL queries can be used with the SDSS database"
-(page 21), it is useless.
+(page 21), Section 1.5.5 would be more appropriate.
 
 Page 22: If the query was in fact submitted to the SDSS Data Release 8 database,
 the URL listed in Appendix D is wrong.  See below for more notes on Appendix D.
