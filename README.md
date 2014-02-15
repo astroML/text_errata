@@ -58,7 +58,7 @@ Page 130: The denominator of the argument of the exponential of Eq. (4.11) shoul
 
 ## Chapter 10
 
-Page 427: in the first paragraph of section 10.3.1, it should be 
+Page 427: in the first paragraph of section 10.3.1, it should be
          omega = 2 pi f = 2 pi / P, and not (2 pi P) for the last part.
 
 Page 437: figure 10.15: in the creation of this figure, the noise was not applied
@@ -69,3 +69,21 @@ with an updated figure on the
 
 
 ## Appendix
+
+### Appendix A
+
+### Appendix B
+
+### Appendix C
+
+Page 517:  The final paragraph of section C.3 should mention that SDSS does not
+use Pogson magnitudes as defined in Equation C.2, but rather the asinh
+magnitudes defined by [Lupton, Gunn & Szalay (1999)](http://adsabs.harvard.edu/abs/1999AJ....118.1406L).
+See also http://www.sdss3.org/dr10/algorithms/magnitudes.php.
+
+In addition, the SDSS magnitude system is *almost* but not *exactly* on the
+AB system.  There are ~1% differences.  Again, see http://www.sdss3.org/dr10/algorithms/magnitudes.php.
+
+### Appendix D
+
+### Appendix E
