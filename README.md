@@ -101,7 +101,7 @@ This affects the columns `G.ra` and `G.dec`. An additional join on the
 `AstromDR9` table is necessary to get the correct astrometry.
 See also http://www.sdss3.org/dr10/imaging/caveats.php#astrometry .
 
-Page 519: The URL in the footnoate is incorrect.  It should be
+Page 519: The URL in the footnote is incorrect.  It should be
 http://skyserver.sdss3.org/casjobs/ .  Only the SDSS-III CasJobs site contains
 DR8 data.
 
