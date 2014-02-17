@@ -22,9 +22,6 @@ See also [this pull request](https://github.com/astroML/astroML/pull/29).  As
 "a simple example of the way SQL queries can be used with the SDSS database"
 (page 21), Section 1.5.5 would be more appropriate.
 
-Page 22: If the query was in fact submitted to the SDSS Data Release 8 database,
-the URL listed in Appendix D is wrong.  See below for more notes on Appendix D.
-
 Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actually an Equirectangular projection (also known in WCS as a "Cartesian projection")
 
 ## Chapter 2
@@ -91,22 +88,22 @@ use Pogson magnitudes as defined in Equation C.2, but rather the asinh
 magnitudes defined by [Lupton, Gunn & Szalay (1999)](http://adsabs.harvard.edu/abs/1999AJ....118.1406L).
 See also http://www.sdss3.org/dr10/algorithms/magnitudes.php#asinh.
 
-In addition, the SDSS magnitude system is *almost* but not *exactly* on the
+Page 517: The SDSS magnitude system is *almost* but not *exactly* on the
 AB system.  There are ~1% differences.  See http://www.sdss3.org/dr10/algorithms/fluxcal.php#SDSStoAB.
 
 ### Appendix D
 
-Page 519: It does not appear to be mentioned anywhere that one must select a particular Context,
-and that this Context must be different from 'MyDB' in order for the query to work.
+Page 519: This query has to be submitted within a particular context within
+CasJobs, specifically DR8.
 
-In addition, the table created, `mydb.SDSSspecgalsDR8` implies that this query is on
-DR8 data.  As far as I am aware, DR8 data is *not* in the SDSS-I/II CAS, but only in
-the SDSS-III CAS, which is at a different site, http://skyserver.sdss3.org/casjobs/ .
+Page 519: The astrometric corrections of DR9 have not been applied to this query.
+This affects the columns `G.ra` and `G.dec`. An additional join on the
+`AstromDR9` table is necessary to get the correct astrometry.
+See also http://www.sdss3.org/dr10/imaging/caveats.php#astrometry .
 
-If this query really is based on DR8 data and was run on [the SDSS-III CasJobs
-site](http://skyserver.sdss3.org/casjobs/), the astrometric corrections of DR9
-will not have been applied.  This affects the columns `G.ra` and `G.dec`.
-An additional join on the `AstromDR9` table is necessary to get the correct
-astrometry.  See also http://www.sdss3.org/dr10/imaging/caveats.php#astrometry .
+Page 519: The URL in the footnoate is incorrect.  It should be
+http://skyserver.sdss3.org/casjobs/ .  Only the SDSS-III CasJobs site contains
+DR8 data.
+
 
 ### Appendix E
