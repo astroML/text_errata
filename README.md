@@ -18,9 +18,6 @@ Errors are listed by chapter, followed by page number.
 Page 19 (also, Figure 1.2 on Page 21): The function `fetch_sdss_spectrum()`
 does not, in fact, query any database in real time.  It simply retrieves a
 specific file from the SDSS-I/II Data Archive Server (DAS) via http.
-See also [this pull request](https://github.com/astroML/astroML/pull/29).  As
-"a simple example of the way SQL queries can be used with the SDSS database"
-(page 21), Section 1.5.5 would be more appropriate.
 
 Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actually an Equirectangular projection (also known in WCS as a "Cartesian projection")
 
@@ -69,7 +66,7 @@ Page 427: in the first paragraph of section 10.3.1, it should be
          omega = 2 pi f = 2 pi / P, and not (2 pi P) for the last part.
 
 Page 437: figure 10.15: in the creation of this figure, the noise was not applied
-to the data before computing the periodogram.  See a fuller discussion along
+to the data before computing the periodogram.  See a more detailed discussion along
 with an updated figure on the
 [astroML website](http://www.astroml.org/book_figures/chapter10/fig_LS_sg_comparison.html)
 
@@ -85,25 +82,24 @@ with an updated figure on the
 
 Page 517:  The final paragraph of section C.3 should mention that SDSS does not
 use Pogson magnitudes as defined in Equation C.2, but rather the asinh
-magnitudes defined by [Lupton, Gunn & Szalay (1999)](http://adsabs.harvard.edu/abs/1999AJ....118.1406L).
-See also http://www.sdss3.org/dr10/algorithms/magnitudes.php#asinh.
+magnitudes, see http://www.sdss3.org/dr10/algorithms/magnitudes.php#asinh.
 
-Page 517: The SDSS magnitude system is *almost* but not *exactly* on the
-AB system.  There are ~1% differences.  See http://www.sdss3.org/dr10/algorithms/fluxcal.php#SDSStoAB.
+Page 517: The SDSS magnitude system deviates from a perfect AB system by 0.01-0.02 mags. 
+See http://www.sdss3.org/dr10/algorithms/fluxcal.php#SDSStoAB.
 
 ### Appendix D
 
-Page 519: This query has to be submitted within a particular context within
-CasJobs, specifically DR8.
+Page 519: This query has to be submitted within a particular context within CasJobs, 
+specifically DR8 or higher (DR7 does not have the value-added spectral information).
 
 Page 519: The astrometric corrections of DR9 have not been applied to this query.
 This affects the columns `G.ra` and `G.dec`. An additional join on the
-`AstromDR9` table is necessary to get the correct astrometry.
-See also http://www.sdss3.org/dr10/imaging/caveats.php#astrometry .
+`AstromDR9` table is necessary to get the correct astrometry (errors are <0.5 arcsec). 
+See also http://www.sdss3.org/dr10/imaging/caveats.php#astrometry.
 
-Page 519: The URL in the footnote is incorrect.  It should be
-http://skyserver.sdss3.org/casjobs/ .  Only the SDSS-III CasJobs site contains
-DR8 data.
+Page 519: The URL in the footnote is incorrect and it should be
+http://skyserver.sdss3.org/casjobs/ (only the SDSS-III CasJobs site contains DR8 and higher
+data).
 
 
 ### Appendix E
