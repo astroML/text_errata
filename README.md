@@ -33,6 +33,8 @@ Page 76: in Figure 3.3, the (1,1) and (2,2) cells are erroneously switched.
 
 Page 99: The line below eq. (3.60) should say "Note that for k = 1 this distribution is a Cauchy distribution", not "k = 2"
 
+Page 109: sigma_xy = 0 is a necessary but not sufficient condition for variables to be independent, even for Normal distributions.  For example, see this [discussion](http://en.wikipedia.org/wiki/Normally_distributed_and_uncorrelated_does_not_imply_independent)
+
 ## Chapter 4
 
 Page 126: The denominator of the argument of the exponential of Eq. (4.2) should be sigma squared, not sigma, to better match Eq. (3.43) and lead to Eq. (4.4).
