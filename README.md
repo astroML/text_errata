@@ -110,3 +110,9 @@ data).
 
 
 ### Appendix E
+
+
+### Index 
+
+Page 537: For entry MAP, a reference to page 179 should also be listed because MAP
+is defined at that page (see bullet 4).
