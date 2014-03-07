@@ -109,3 +109,9 @@ data).
 
 
 ### Appendix E
+
+
+### Index
+
+Page 537: For MAP, a reference to page 179 should be added, which
+is where MAP is defined (Maximum A Posteriori).
