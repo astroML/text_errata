@@ -48,7 +48,8 @@ Page 130: The denominator of the argument of the exponential of Eq. (4.11) shoul
 
 ## Chapter 5
 
-
+Page 221: In the sentence immediately preceding Eq. (5.100) the words
+'and \mu' should be deleted.
 
 ## Chapter 6
 
