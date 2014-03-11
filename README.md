@@ -35,7 +35,7 @@ Page 99: The line below Eq. (3.60) should say "Note that for k = 1 this distribu
 
 Page 109: The first sentence in the paragraph preceeding Eq. (3.78) should read
 "If sigma_xy=0, then x and y are uncorrelated, and if also independent, we can
-treat them separately as two one-dimensional distributions." (that is, vanishing 
+treat them separately as two one-dimensional distributions." (that is, vanishing
 correlation does not necessarily imply independence)
 
 
@@ -47,6 +47,9 @@ Page 130: The denominator of the argument of the exponential of Eq. (4.11) shoul
 
 
 ## Chapter 5
+
+Page 188: In Equation (5.27) the labels of M should be swapped.  The correct
+equation is O_{21} = p(D|M_2)/p(D|M_1).
 
 Page 221: In the sentence immediately preceding Eq. (5.100) the words 'and mu' should not be there.
 
@@ -91,17 +94,17 @@ Page 517:  The final paragraph of section C.3 should mention that SDSS does not
 use Pogson magnitudes as defined in Equation C.2, but rather the asinh
 magnitudes, see http://www.sdss3.org/dr10/algorithms/magnitudes.php#asinh.
 
-Page 517: The SDSS magnitude system deviates from a perfect AB system by 0.01-0.02 mags. 
+Page 517: The SDSS magnitude system deviates from a perfect AB system by 0.01-0.02 mags.
 See http://www.sdss3.org/dr10/algorithms/fluxcal.php#SDSStoAB.
 
 ### Appendix D
 
-Page 519: This query has to be submitted within a particular context within CasJobs, 
+Page 519: This query has to be submitted within a particular context within CasJobs,
 specifically DR8 or higher (DR7 does not have the value-added spectral information).
 
 Page 519: The astrometric corrections of DR9 have not been applied to this query.
 This affects the columns `G.ra` and `G.dec`. An additional join on the
-`AstromDR9` table is necessary to get the correct astrometry (errors are <0.5 arcsec). 
+`AstromDR9` table is necessary to get the correct astrometry (errors are <0.5 arcsec).
 See also http://www.sdss3.org/dr10/imaging/caveats.php#astrometry.
 
 Page 519: The URL in the footnote is incorrect and it should be
@@ -112,7 +115,7 @@ data).
 ### Appendix E
 
 
-### Index 
+### Index
 
 Page 537: For entry MAP, a reference to page 179 should also be listed because MAP
 is defined at that page (see bullet 4).
