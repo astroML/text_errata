@@ -47,6 +47,7 @@ Page 130: The denominator of the argument of the exponential of Eq. (4.11) shoul
 
 
 ## Chapter 5
+Page 182-183: The terms in both parentheticals of Equation (5.14) should be swapped (e.g. 1-sum(p_{i}) should read sum(p_{i})-1, and similar for the mu term. Then Equation (5.16) should read -[ln(p_{i}/m_{i}) + 1] + lambda_{0} + i*lambda_{1} = 0, and Equation (5.17) becomes p_{i} = m_{i}*exp(-1 + lambda_{0})*exp(i*lambda_{1}). 
 
 Page 188: In Equation (5.27) the labels of M should be swapped.  The correct
 equation is O_{21} = p(D|M_2)/p(D|M_1).
