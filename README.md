@@ -48,6 +48,8 @@ Page 130: The denominator of the argument of the exponential of Eq. (4.11) shoul
 
 ## Chapter 5
 
+Page 183: In Equation (5.17), the argument for the last exp is missing a minus sign. 
+
 Page 188: In Equation (5.27) the labels of M should be swapped.  The correct
 equation is O_{21} = p(D|M_2)/p(D|M_1).
 
