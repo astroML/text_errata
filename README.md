@@ -55,6 +55,8 @@ equation is O_{21} = p(D|M_2)/p(D|M_1).
 
 Page 221: In the sentence immediately preceding Eq. (5.100) the words 'and mu' should not be there.
 
+Page 225: In Equation (5.107) there is an erroneous repeated end parenthesis on the left hand side of the equation.
+
 Page 234: In the sample Python code, the sigma in the pymc.Normal command should be replaced with 1./sigma**2.
 
 
