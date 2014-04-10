@@ -72,6 +72,8 @@ Page 234: In the sample Python code, the sigma in the pymc.Normal command should
 
 Page 339: Typo on line 7, "...the bandwidth is more important that the exact shape..."
 
+Page 357: In Equation 8.77 and 8.78 the term in square brackets should be squared. 
+
 ## Chapter 9
 
 
