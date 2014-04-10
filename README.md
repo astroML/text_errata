@@ -78,6 +78,8 @@ Page 339: Typo on line 7, "that" should be replaced by "than" in the sentence
 
 >>>>>>> upstream/master
 
+Page 357: In Equation 8.77 and 8.78 the term in square brackets should be squared. 
+
 ## Chapter 9
 
 
