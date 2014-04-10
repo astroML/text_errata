@@ -70,7 +70,7 @@ Page 234: In the sample Python code, the sigma in the pymc.Normal command should
 
 ## Chapter 8
 
-
+Page 339: Typo on line 7, "...the bandwidth is more important that the exact shape..."
 
 ## Chapter 9
 
