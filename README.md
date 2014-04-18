@@ -31,6 +31,8 @@ Page 60: Eq. (2.7), "less than" sign should be "greater than"
 
 Page 76: in Figure 3.3, the (1,1) and (2,2) cells are erroneously switched.
 
+Page 95: in the Python code preamble 'is implemented in "scipy.stats.cauchy"' should be replaced with "scipy.stats.laplace"
+
 Page 99: The line below Eq. (3.60) should say "Note that for k = 1 this distribution is a Cauchy distribution", not "k = 2"
 
 Page 109: The first sentence in the paragraph preceeding Eq. (3.78) should read
