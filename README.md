@@ -68,7 +68,7 @@ Page 234: In the sample Python code, the sigma in the pymc.Normal command should
 
 ## Chapter 7
 
-
+Page 309: In the gray box, the simulated data uses 1000 points in 2 dimensions, but the comments refer to 100 points in two dimensions.
 
 ## Chapter 8
 
