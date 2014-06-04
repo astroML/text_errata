@@ -75,7 +75,6 @@ Page 309: In the gray box, the simulated data uses 1000 points in 2 dimensions, 
 Page 339: Typo on line 7, "that" should be replaced by "than" in the sentence 
 "...the bandwidth is more important that the exact shape..."
 
-
 Page 357: In Equation 8.77 and 8.78 the term in square brackets should be squared. 
 
 ## Chapter 9
@@ -92,7 +91,7 @@ to the data before computing the periodogram.  See a more detailed discussion al
 with an updated figure on the
 [astroML website](http://www.astroml.org/book_figures/chapter10/fig_LS_sg_comparison.html)
 
-
+Page 444: Equation 10.76- should probably be phi_m = atan(b_m/a_m) instead of phi_m = atan(b_m,a_m)
 
 ## Appendix
 
