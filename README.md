@@ -31,6 +31,8 @@ Page 60: Eq. (2.7), "less than" sign should be "greater than"
 
 Page 76: in Figure 3.3, the (1,1) and (2,2) cells are erroneously switched.
 
+Page 95: in the Python code preamble 'is implemented in "scipy.stats.cauchy"' should be replaced with "scipy.stats.laplace"
+
 Page 99: The line below Eq. (3.60) should say "Note that for k = 1 this distribution is a Cauchy distribution", not "k = 2"
 
 Page 109: The first sentence in the paragraph preceeding Eq. (3.78) should read
@@ -66,12 +68,14 @@ Page 234: In the sample Python code, the sigma in the pymc.Normal command should
 
 ## Chapter 7
 
-
+Page 309: In the gray box, the simulated data uses 1000 points in 2 dimensions, but the comments refer to 100 points in two dimensions.
 
 ## Chapter 8
 
 Page 339: Typo on line 7, "that" should be replaced by "than" in the sentence 
 "...the bandwidth is more important that the exact shape..."
+
+Page 357: In Equation 8.77 and 8.78 the term in square brackets should be squared. 
 
 Page 357: In Equation 8.77 and 8.78 the term in square brackets should be squared. 
 
