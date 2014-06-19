@@ -92,6 +92,8 @@ to the data before computing the periodogram.  See a more detailed discussion al
 with an updated figure on the
 [astroML website](http://www.astroml.org/book_figures/chapter10/fig_LS_sg_comparison.html)
 
+Page 444: Eqn 10.76: $\atan(b, a)$ should be replaced with $\tan^{-1}(b_m / a_m)$.
+
 
 
 ## Appendix
