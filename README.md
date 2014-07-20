@@ -25,20 +25,22 @@ Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actuall
 
 Page 47/50: there are eight entries despite the title "Seven Strategies..."
 
-Page 60: Eq. (2.7), "less than" sign should be "greater than"
+Page 60: Eq. (2.7), "less than" sign should be "greater than".
 
 ## Chapter 3
 
-Page 76: in Figure 3.3, the (1,1) and (2,2) cells are erroneously switched.
+Page 75: "If the patient is healthy (T = 0)..." should be "If the patient is healthy (D = 0)...".
 
-Page 95: in the Python code preamble 'is implemented in "scipy.stats.cauchy"' should be replaced with "scipy.stats.laplace"
+Page 75: "If the patient has the disease (T = 1)..." should be "If the patient has the disease (D = 1)...".
 
-Page 99: The line below Eq. (3.60) should say "Note that for k = 1 this distribution is a Cauchy distribution", not "k = 2"
+Page 95: in the Python code preamble 'is implemented in "scipy.stats.cauchy"' should be replaced with "scipy.stats.laplace".
+
+Page 99: The line below Eq. (3.60) should say "Note that for k = 1 this distribution is a Cauchy distribution", not "k = 2".
 
 Page 109: The first sentence in the paragraph preceeding Eq. (3.78) should read
 "If sigma_xy=0, then x and y are uncorrelated, and if also independent, we can
 treat them separately as two one-dimensional distributions." (that is, vanishing
-correlation does not necessarily imply independence)
+correlation does not necessarily imply independence).
 
 
 ## Chapter 4
