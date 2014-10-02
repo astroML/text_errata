@@ -49,6 +49,8 @@ Page 126: The denominator of the argument of the exponential of Eq. (4.2) should
 
 Page 130: The denominator of the argument of the exponential of Eq. (4.11) should be sigma squared, not sigma, to better match Eq. (3.43) and lead to Eq. (4.13).
 
+Page 163: Section 4.7.6, discussing the F-test for comparing variances of two Gaussian distributions, suggests using scipy.stats.f_oneway. However, stats.f_oneway actually returns a p-value for the F-test to compare means of subsamples by analysis of variance (ANOVA), a technique which is common in medicine and social sciences but rare in astronomy. The F-test for variances is quite sensitive to the assumption of Gaussianity and perhaps better avoided.
+
 
 ## Chapter 5
 
