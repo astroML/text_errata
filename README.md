@@ -82,6 +82,7 @@ Page 357: In Equation 8.77 and 8.78 the term in square brackets should be square
 
 ## Chapter 9
 
+Page 372: Equation 9.21 is missing a logarithm term. We should replace ``2\pi(\sigma_i^k)^2`` with ``\ln [ 2\pi(\sigma_i^k)^2 ]``
 
 
 ## Chapter 10
