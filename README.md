@@ -74,9 +74,18 @@ Page 309: In the gray box, the simulated data uses 1000 points in 2 dimensions, 
 
 ## Chapter 8
 
+Page 326: Eq. 8.7 should start: "ln(L) \equiv ln(p(\theta|{x_i,y_i},I)) \propto \sum ...", i.e. the p inside ln is missing.
+
+Page 328: Text reads "This is reflected in in the $\chi^2_{dof}$  for this fit  which is 1.54 ...", while the corresponding upper left panel of Figure 8.2 (on same page) says $\chi^2_{dof} = 1.57$.
+
+Page 329: The in-line comment on line 3 of the code snippet (the line begins with: X = np.random...) spills over to the next line and does not look like a comment anymore.
+
+Page 331: Line 3 in the code snippet is all a comment: "# dimension  dy = 0.1". The part "dy = 0.1" must be an instruction instead.
+
+Page 336: The caption of the code snippet reads "Ridge regression can be accomplished with the Lasso class in Skikit-learn:" This should be instead "Lasso regression can be accomplished ..."
+
 Page 339: Typo on line 7, "that" should be replaced by "than" in the sentence 
 "...the bandwidth is more important that the exact shape..."
-
 
 Page 357: In Equation 8.77 and 8.78 the term in square brackets should be squared. 
 
