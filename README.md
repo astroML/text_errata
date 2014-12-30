@@ -74,6 +74,8 @@ Page 309: In the gray box, the simulated data uses 1000 points in 2 dimensions, 
 
 ## Chapter 8
 
+Page 323: The y label in the bottom four panels in fig. 8.1 should be theta_0, and not theta_2. 
+
 Page 326: Eq. 8.7 should start: "ln(L) \equiv ln(p(\theta|{x_i,y_i},I)) \propto \sum ...", i.e. the p inside ln is missing.
 
 Page 328: Text reads "This is reflected in in the $\chi^2_{dof}$  for this fit  which is 1.54 ...", while the corresponding upper left panel of Figure 8.2 (on same page) says $\chi^2_{dof} = 1.57$.
