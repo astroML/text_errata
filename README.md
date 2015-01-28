@@ -25,20 +25,22 @@ Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actuall
 
 Page 47/50: there are eight entries despite the title "Seven Strategies..."
 
-Page 60: Eq. (2.7), "less than" sign should be "greater than"
+Page 60: Eq. (2.7), "less than" sign should be "greater than".
 
 ## Chapter 3
 
-Page 76: in Figure 3.3, the (1,1) and (2,2) cells are erroneously switched.
+Page 75: "If the patient is healthy (T = 0)..." should be "If the patient is healthy (D = 0)...".
 
-Page 95: in the Python code preamble 'is implemented in "scipy.stats.cauchy"' should be replaced with "scipy.stats.laplace"
+Page 75: "If the patient has the disease (T = 1)..." should be "If the patient has the disease (D = 1)...".
 
-Page 99: The line below Eq. (3.60) should say "Note that for k = 1 this distribution is a Cauchy distribution", not "k = 2"
+Page 95: in the Python code preamble 'is implemented in "scipy.stats.cauchy"' should be replaced with "scipy.stats.laplace".
+
+Page 99: The line below Eq. (3.60) should say "Note that for k = 1 this distribution is a Cauchy distribution", not "k = 2".
 
 Page 109: The first sentence in the paragraph preceeding Eq. (3.78) should read
 "If sigma_xy=0, then x and y are uncorrelated, and if also independent, we can
 treat them separately as two one-dimensional distributions." (that is, vanishing
-correlation does not necessarily imply independence)
+correlation does not necessarily imply independence).
 
 
 ## Chapter 4
@@ -72,6 +74,18 @@ Page 309: In the gray box, the simulated data uses 1000 points in 2 dimensions, 
 
 ## Chapter 8
 
+Page 323: The y label in the bottom four panels in fig. 8.1 should be theta_0, and not theta_2. 
+
+Page 326: Eq. 8.7 should start: "ln(L) \equiv ln(p(\theta|{x_i,y_i},I)) \propto \sum ...", i.e. the p inside ln is missing.
+
+Page 328: Text reads "This is reflected in in the $\chi^2_{dof}$  for this fit  which is 1.54 ...", while the corresponding upper left panel of Figure 8.2 (on same page) says $\chi^2_{dof} = 1.57$.
+
+Page 329: The in-line comment on line 3 of the code snippet (the line begins with: X = np.random...) spills over to the next line and does not look like a comment anymore.
+
+Page 331: Line 3 in the code snippet is all a comment: "# dimension  dy = 0.1". The part "dy = 0.1" must be an instruction instead.
+
+Page 336: The caption of the code snippet reads "Ridge regression can be accomplished with the Lasso class in Skikit-learn:" This should be instead "Lasso regression can be accomplished ..."
+
 Page 339: Typo on line 7, "that" should be replaced by "than" in the sentence 
 "...the bandwidth is more important that the exact shape..."
 
@@ -79,6 +93,7 @@ Page 357: In Equation 8.77 and 8.78 the term in square brackets should be square
 
 ## Chapter 9
 
+Page 372: Equation 9.21 is missing a logarithm term. We should replace ``2\pi(\sigma_i^k)^2`` with ``\ln [ 2\pi(\sigma_i^k)^2 ]``
 
 
 ## Chapter 10
@@ -91,7 +106,7 @@ to the data before computing the periodogram.  See a more detailed discussion al
 with an updated figure on the
 [astroML website](http://www.astroml.org/book_figures/chapter10/fig_LS_sg_comparison.html)
 
-Page 444: Equation 10.76- should probably be phi_m = atan(b_m/a_m) instead of phi_m = atan(b_m,a_m)
+Page 444: Eqn 10.76: $\atan(b, a)$ should be replaced with $\tan^{-1}(b_m / a_m)$.
 
 ## Appendix
 
