@@ -49,6 +49,8 @@ Page 126: The denominator of the argument of the exponential of Eq. (4.2) should
 
 Page 130: The denominator of the argument of the exponential of Eq. (4.11) should be sigma squared, not sigma, to better match Eq. (3.43) and lead to Eq. (4.13).
 
+Page 143: The pointers "upper panel" and "lower" panel in the caption for Figure 4.4, and below in text, should be "left panel" and "right panel".
+
 
 ## Chapter 5
 
