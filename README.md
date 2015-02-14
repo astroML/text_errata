@@ -88,12 +88,14 @@ Page 329: The last line of the preamble to the code box, "For data with *homosce
 
 Page 331: Line 3 in the code snippet is all a comment: "# dimension  dy = 0.1". The part "dy = 0.1" must be an instruction instead.
 
+Page 332: Eq. 8.29 is missing the C^{−1} term between the two terms in parenthesis.
+
 Page 336: The caption of the code snippet reads "Ridge regression can be accomplished with the Lasso class in Skikit-learn:" This should be instead "Lasso regression can be accomplished ..."
 
 Page 339: Typo on line 7, "that" should be replaced by "than" in the sentence
 "...the bandwidth is more important that the exact shape..."
 
-Page 357: In Equation 8.77 and 8.78 the term in square brackets should be squared.
+Page 357: In Equation 8.77 and 8.78, the term in square brackets should be squared.
 
 ## Chapter 9
 
