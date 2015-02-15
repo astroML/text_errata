@@ -103,6 +103,7 @@ Page 372: Equation 9.21 is missing a logarithm term. We should replace ``2\pi(\s
 
 
 ## Chapter 10
+Page 419: Equation 10.18 is missing the $dt$. It should read $H_w(t_0; f_0, Q) = \int_{-\infty}^{\infty} h(t) w(t | t_0, f_0, Q) dt$.
 
 Page 427: in the first paragraph of section 10.3.1, it should be
          omega = 2 pi f = 2 pi / P, and not (2 pi P) for the last part.
