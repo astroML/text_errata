@@ -51,6 +51,8 @@ Page 130: The denominator of the argument of the exponential of Eq. (4.11) shoul
 
 Page 143: The pointers "upper panel" and "lower" panel in the caption for Figure 4.4, and below in text, should be "left panel" and "right panel".
 
+page 167: The `x` value in figure 4.8 behaves like a magnitude (i.e. large x is selected out for large distances y); the text on the page implies it can be considered as a luminosity.
+
 
 ## Chapter 5
 
