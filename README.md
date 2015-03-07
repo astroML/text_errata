@@ -61,6 +61,8 @@ Page 183: In Equation (5.17), the argument for the last exp is missing a minus s
 Page 188: In Equation (5.27) the labels of M should be swapped.  The correct
 equation is O_{21} = p(D|M_2)/p(D|M_1).
 
+Page 201: In Equation (5.61), the lower integration limit should be minus infinity, not 0.
+
 Page 221: In the sentence immediately preceding Eq. (5.100) the words 'and mu' should not be there.
 
 Page 225: In Equation (5.107) there is an erroneous repeated end parenthesis on the left hand side of the equation.
