@@ -37,6 +37,8 @@ Page 95: in the Python code preamble 'is implemented in "scipy.stats.cauchy"' sh
 
 Page 99: The line below Eq. (3.60) should say "Note that for k = 1 this distribution is a Cauchy distribution", not "k = 2".
 
+Page 104: Figure 3.19 shows the positive part of a double Weibull distribution, not a Weibull distribution. In this case it means that the values on the y axis are half of what they should be. To get a Weibull distribution in scipy, use exponweib with a=1 rather than dweibull. 
+
 Page 109: The first sentence in the paragraph preceeding Eq. (3.78) should read
 "If sigma_xy=0, then x and y are uncorrelated, and if also independent, we can
 treat them separately as two one-dimensional distributions." (that is, vanishing
