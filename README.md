@@ -105,6 +105,8 @@ Page 357: In Equation 8.77 and 8.78, the term in square brackets should be squar
 
 Page 372: Equation 9.21 is missing a logarithm term. We should replace ``2\pi(\sigma_i^k)^2`` with ``\ln [ 2\pi(\sigma_i^k)^2 ]``
 
+Page 375: Equation 9.25 second term on the right is missing \mu_k after \sigma^{-1}
+
 
 ## Chapter 10
 Page 419: Equation 10.18 is missing the $dt$. It should read $H_w(t_0; f_0, Q) = \int_{-\infty}^{\infty} h(t) w(t | t_0, f_0, Q) dt$.
