@@ -51,6 +51,8 @@ Page 126: The denominator of the argument of the exponential of Eq. (4.2) should
 
 Page 130: The denominator of the argument of the exponential of Eq. (4.11) should be sigma squared, not sigma, to better match Eq. (3.43) and lead to Eq. (4.13).
 
+Page 134: Typo: Aikake should be Akaike
+
 Page 143: The pointers "upper panel" and "lower" panel in the caption for Figure 4.4, and below in text, should be "left panel" and "right panel".
 
 page 167: The `x` value in figure 4.8 behaves like a magnitude (i.e. large x is selected out for large distances y); the text on the page implies it can be considered as a luminosity.
@@ -65,12 +67,15 @@ equation is O_{21} = p(D|M_2)/p(D|M_1).
 
 Page 201: In Equation (5.61), the lower integration limit should be minus infinity, not 0.
 
+Page 202: Typo: Aikake should be Akaike
+
 Page 221: In the sentence immediately preceding Eq. (5.100) the words 'and mu' should not be there.
 
 Page 225: In Equation (5.107) there is an erroneous repeated end parenthesis on the left hand side of the equation.
 
 Page 234: In the sample Python code, the sigma in the pymc.Normal command should be replaced with 1./sigma**2.
 
+Page 247: Typo: Aikake should be Akaike
 
 ## Chapter 6
 
