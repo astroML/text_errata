@@ -19,6 +19,8 @@ Page 19 (also, Figure 1.2 on Page 21): The function `fetch_sdss_spectrum()`
 does not, in fact, query any database in real time.  It simply retrieves a
 specific file from the SDSS-I/II Data Archive Server (DAS) via http.
 
+Page 20: below In[5], "plate" should be commented out
+
 Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actually an Equirectangular projection (also known in WCS as a "Cartesian projection")
 
 ## Chapter 2
