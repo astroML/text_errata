@@ -51,6 +51,10 @@ correlation does not necessarily imply independence).
 
 Page 126: The denominator of the argument of the exponential of Eq. (4.2) should be sigma squared, not sigma, to better match Eq. (3.43) and lead to Eq. (4.4).
 
+Page 128: Equation 4.6 is not correct: the confidence limits are related to the inverse of the *matrix*, not the inverse of the *elements* of the matrix. The correct expression is as follows:
+
+![equation](eqs.png)
+
 Page 130: The denominator of the argument of the exponential of Eq. (4.11) should be sigma squared, not sigma, to better match Eq. (3.43) and lead to Eq. (4.13).
 
 Page 134: Typo: Aikake should be Akaike
