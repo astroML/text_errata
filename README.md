@@ -27,6 +27,8 @@ Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actuall
 
 Page 47/50: there are eight entries despite the title "Seven Strategies..."
 
+Page 55: ``vectorized_nn`` and ``easy_nn`` do not return the same distances: the ``vectorized_nn`` function is missing a square-root.
+
 Page 60: Eq. (2.7), "less than" sign should be "greater than".
 
 ## Chapter 3
