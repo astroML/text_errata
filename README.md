@@ -79,6 +79,8 @@ Page 202: Typo: Aikake should be Akaike
 
 Page 221: In the sentence immediately preceding Eq. (5.100) the words 'and mu' should not be there.
 
+Page 225: In Equation (5.106) there should be 8.09 in the denominator instead of 9.09 (from Eq. 5.105). Also, the result can be rounded to 1.46 (because it is actually 1.45859).
+
 Page 225: In Equation (5.107) there is an erroneous repeated end parenthesis on the left hand side of the equation.
 
 Page 234: In the sample Python code, the sigma in the pymc.Normal command should be replaced with 1./sigma**2.
