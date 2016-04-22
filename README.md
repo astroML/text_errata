@@ -89,7 +89,7 @@ Page 247: Typo: Aikake should be Akaike
 
 ## Chapter 6
 
-
+Page 254: Equation 6.5 is a log likelihood function and should maximized rather than minimized (which is what the text suggests). Alternatively, if a negative sign is inserted into the equation then it describes the negative log likelihood and should be minimized.  
 
 ## Chapter 7
 
