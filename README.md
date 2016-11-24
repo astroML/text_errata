@@ -127,11 +127,13 @@ Page 375: Equation 9.25 second term on the right is missing \mu_k after \sigma^{
 
 ## Chapter 10
 Page 419: Equation 10.18 is missing the $dt$. It should read $H_w(t_0; f_0, Q) = \int_{-\infty}^{\infty} h(t) w(t | t_0, f_0, Q) dt$.
-
 Page 427: in the first paragraph of section 10.3.1, it should be
          omega = 2 pi f = 2 pi / P, and not (2 pi P) for the last part.
 
-Page 437: figure 10.15: in the creation of this figure, the noise was not applied
+Page 433: numerical term in text just before eq.10.57, immediately after the text 
+"...the first term becomes..." should read N*(A/σ)^2/2 (that is, an extra N). 
+
+Page 437: figure 10.16: in the creation of this figure, the noise was not applied
 to the data before computing the periodogram.  See a more detailed discussion along
 with an updated figure on the
 [astroML website](http://www.astroml.org/book_figures/chapter10/fig_LS_sg_comparison.html)
