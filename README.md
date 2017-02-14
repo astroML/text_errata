@@ -23,6 +23,8 @@ Page 20: below In[5], "plate" should be commented out
 
 Page 35: Figure 1.13 is incorrectly labeled a Mercator projection.  It's actually an Equirectangular projection (also known in WCS as a "Cartesian projection")
 
+Page 38 (e-book): Figure 1.15, particularly the bottom subfigure, is very undersampled and jpeg-ified; as a result, the CMB map doesn't illustrate the level of detail available at HEALPix Nside=512 resolution.
+
 ## Chapter 2
 
 Page 47/50: there are eight entries despite the title "Seven Strategies..."
