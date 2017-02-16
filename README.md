@@ -89,6 +89,8 @@ Page 247: Typo: Aikake should be Akaike
 
 ## Chapter 6
 
+Page 253: In Equation (6.3) the conditions should be |u|<=1 and |u|>1. Or, u \elem [-1,1] and otherwise.
+
 Page 254: Equation 6.5 is a log likelihood function and should be maximized rather than minimized (which is what the text suggests). Alternatively, if a negative sign is inserted into the equation it describes the negative log likelihood and should be minimized.  
 
 ## Chapter 7
