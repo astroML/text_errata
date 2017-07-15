@@ -84,6 +84,7 @@ Page 225: In Equation (5.106) there should be 8.09 in the denominator instead of
 Page 225: In Equation (5.107) there is an erroneous repeated end parenthesis on the left hand side of the equation.
 
 Page 231: The following statement just above Equation (5.119) is too restrictive: "To reach an equilibrium, or stationary, distribution of positions, it is necessary that the transition probability is symmetric".  As a counter-example, consider a chain that explores 3 states {A,B,C} with non-zero transition probabilities p(B|A) = p(C|B) = p(A|C) = 1.  This reaches an equilibrium p(X) = 1/3 but 1 = p(B|A) != p(A|B) = 0.
+    Therefore, "necessary" should be replaced by "sufficient (but not necessary)".
 
 Page 234: In the sample Python code, the sigma in the pymc.Normal command should be replaced with 1./sigma**2.
 
