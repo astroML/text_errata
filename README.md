@@ -124,6 +124,8 @@ Page 339: Typo on line 7, "that" should be replaced by "than" in the sentence
 Page 349: Add before Equation 8.67, and after introducing the mixture model: 
 "V_b implies a source of error in addition to the already existing measurement error for each point."
 
+Page 351: In Equation 8.73 the matrix K_{12} should be transposed. 
+
 Page 357: In Equation 8.77 and 8.78, the term in square brackets should be squared.
 
 ## Chapter 9
