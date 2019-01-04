@@ -41,7 +41,7 @@ Page 95: in the Python code preamble 'is implemented in "scipy.stats.cauchy"' sh
 
 Page 99: The line below Eq. (3.60) should say "Note that for k = 1 this distribution is a Cauchy distribution", not "k = 2".
 
-Page 104: Figure 3.19 shows the positive part of a double Weibull distribution, not a Weibull distribution. In this case it means that the values on the y axis are half of what they should be. To get a Weibull distribution in scipy, use exponweib with a=1 rather than dweibull. 
+Page 104: Figure 3.19 shows the positive part of a double Weibull distribution, not a Weibull distribution. In this case it means that the values on the y axis are half of what they should be. To get a Weibull distribution in scipy, use exponweib with a=1 rather than dweibull.
 
 Page 109: The first sentence in the paragraph preceeding Eq. (3.78) should read
 "If sigma_xy=0, then x and y are uncorrelated, and if also independent, we can
@@ -92,7 +92,7 @@ Page 247: Typo: Aikake should be Akaike
 
 ## Chapter 6
 
-Page 254: Equation 6.5 is a log likelihood function and should be maximized rather than minimized (which is what the text suggests). Alternatively, if a negative sign is inserted into the equation it describes the negative log likelihood and should be minimized.  
+Page 254: Equation 6.5 is a log likelihood function and should be maximized rather than minimized (which is what the text suggests). Alternatively, if a negative sign is inserted into the equation it describes the negative log likelihood and should be minimized.
 
 Page 266: Equation 6.21.  Summation index in the denominator should be k instead of j.
 
@@ -121,10 +121,10 @@ Page 336: The caption of the code snippet reads "Ridge regression can be accompl
 Page 339: Typo on line 7, "that" should be replaced by "than" in the sentence
 "...the bandwidth is more important that the exact shape..."
 
-Page 349: Add before Equation 8.67, and after introducing the mixture model: 
+Page 349: Add before Equation 8.67, and after introducing the mixture model:
 "V_b implies a source of error in addition to the already existing measurement error for each point."
 
-Page 351: In Equation 8.73 the matrix K_{12} should be transposed. 
+Page 351: In Equation 8.73 the matrix K_{12} should be transposed.
 
 Page 357: In Equation 8.77 and 8.78, the term in square brackets should be squared.
 
@@ -140,8 +140,8 @@ Page 419: Equation 10.18 is missing the $dt$. It should read $H_w(t_0; f_0, Q) =
 Page 427: in the first paragraph of section 10.3.1, it should be
          omega = 2 pi f = 2 pi / P, and not (2 pi P) for the last part.
 
-Page 433: numerical term in text just before eq.10.57, immediately after the text 
-"...the first term becomes..." should read N*(A/σ)^2/2 (that is, an extra N). 
+Page 433: numerical term in text just before eq.10.57, immediately after the text
+"...the first term becomes..." should read N*(A/σ)^2/2 (that is, an extra N).
 
 Page 437: figure 10.16: in the creation of this figure, the noise was not applied
 to the data before computing the periodogram.  See a more detailed discussion along
@@ -150,7 +150,7 @@ with an updated figure on the
 
 Page 444: Eqn 10.76: $\atan(b, a)$ should be replaced with $\tan^{-1}(b_m / a_m)$.
 
-
+Page 445: Fig 10.20 caption: there are 6 rather than 5 colorized clusters.
 
 ## Appendix
 
