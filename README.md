@@ -96,6 +96,9 @@ Page 254: Equation 6.5 is a log likelihood function and should be maximized rath
 
 Page 266: Equation 6.21.  Summation index in the denominator should be k instead of j.
 
+Page 279: Eq. 6.46 is missing a factor of 3 and should be 
+$\hat{\xi}(r) = \frac{DDD(r)-3DDR(r)+3DRR(r)-RRR(r)}{RRR(r)}$.
+
 ## Chapter 7
 
 Page 309: In the gray box, the simulated data uses 1000 points in 2 dimensions, but the comments refer to 100 points in two dimensions.
