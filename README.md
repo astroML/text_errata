@@ -103,6 +103,16 @@ $\hat{\xi}(r) = \frac{DDD(r)-3DDR(r)+3DRR(r)-RRR(r)}{RRR(r)}$.
 
 Page 309: In the gray box, the simulated data uses 1000 points in 2 dimensions, but the comments refer to 100 points in two dimensions.
 
+Page 314: Text around Equation 7.39 should read: "Two random variables are considered statistically independent if their joint probability distribution, f(x,y), can be fully described as the product of their marginalized probabilities, that is,
+
+  f(x,y) = f(x) f(y)
+  
+For the case of PCA, we find the weaker condition of uncorrelated data,
+
+  E(x y) = E(x) E(y),
+
+where E(.) is the expectation."
+
 ## Chapter 8
 
 Page 323: The y label in the bottom four panels in fig. 8.1 should be theta_0, and not theta_2.
