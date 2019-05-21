@@ -37,6 +37,8 @@ Page 75: "If the patient is healthy (T = 0)..." should be "If the patient is hea
 
 Page 75: "If the patient has the disease (T = 1)..." should be "If the patient has the disease (D = 1)...".
 
+Page 79: It is stated that "highly peaked" distributions have positive kurtosis, while "flat-topped" distributions have negative kurtosis.  The notion that kurtosis is a measure of the "peakedness" of the distribution is, however, incorrect.  Kurtosis measures the power in the wings (or the tail extremity) of a distribution.  As discussed in detail in the article [ Kurtosis as Peakedness, 1905–2014. R.I.P.](https://doi.org/10.1080/00031305.2014.917055) (The American Statistician, 68:3, 191-195) this incorrect notion is found frequently in research literature and in statistic textbooks.
+
 Page 95: in the Python code preamble 'is implemented in "scipy.stats.cauchy"' should be replaced with "scipy.stats.laplace".
 
 Page 99: The line below Eq. (3.60) should say "Note that for k = 1 this distribution is a Cauchy distribution", not "k = 2".
