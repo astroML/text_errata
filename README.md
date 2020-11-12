@@ -40,6 +40,8 @@ Page 75: "If the patient has the disease (T = 1)..." should be "If the patient h
 Page 79: The notion that kurtosis is a measure of the "peakedness" of the distribution is incorrect: it measures 
 the power in the wings (or the tail extremity) of a distribution. 
 
+Page 90: Figure 3.9, horizontal label is "x" should be, according to Eq. 3.50, "k".
+
 Page 95: in the Python code preamble 'is implemented in "scipy.stats.cauchy"' should be replaced with "scipy.stats.laplace".
 
 Page 99: The line below Eq. (3.60) should say "Note that for k = 1 this distribution is a Cauchy distribution", not "k = 2".
