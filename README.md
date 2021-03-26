@@ -5,7 +5,7 @@ A List of errors and typos in the *second edition* of the book
 
  
 
-For the *first edition*, please go to [the old errata page](https://github.com/astroML/text_errata/errataFirstEdition.md)
+For the *first edition*, please go to [the old errata page](https://github.com/astroML/text_errata/blob/master/errataFirstEdition.md)
 
 
 There are a couple ways to submit a new error report

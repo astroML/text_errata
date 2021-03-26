@@ -1,7 +1,8 @@
 # Text Errata
 
 A List of errors and typos in the *first edition* of the book
-[Statistics, Data Mining, and Machine Learning in Astronomy](http://press.princeton.edu/titles/10159.html)
+[Statistics, Data Mining, and Machine Learning in Astronomy](https://press.princeton.edu/books/hardcover/9780691198309/statistics-data-mining-and-machine-learning-in-astronomy)
+ 
 
 For the *second edition*, please go to [the main errata page](https://github.com/astroML/text_errata)
 
